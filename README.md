@@ -1,2 +1,3 @@
-# Virtual-Library
-Project 1: C211 - Creating a virtual library
+Creating a Virtual Library
+Project 1: C211
+
